@@ -1,1 +1,1 @@
-var playlist = {artistName:songTitle};
+var playlist = {Burna Boy:'Anybody'};
