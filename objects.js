@@ -3,4 +3,4 @@ function updatePlaylist (obj, artistName, songTitle) {
 }
  const playlist = {}
 
- updatePlaylist(playlist, artistName, songTitle)
+ updatePlaylist(obj, artistName, songTitle)
